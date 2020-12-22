@@ -9,3 +9,19 @@
 a {
     color: black;
 }
+
+.about-me-text {
+    padding: 5px;
+}
+
+.about-me-img {
+    margin-right: 5px;
+    width: 16em; 
+    height: 16em; 
+    float: left
+}
+
+.portfolio-img {
+    width: 200px;
+    margin: 10px 30px;
+}
