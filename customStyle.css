@@ -1,0 +1,11 @@
+.navbar-brand {
+    background-color: teal;
+}
+
+.nav-item {
+    margin: 5px;
+}
+
+a {
+    color: black;
+}
