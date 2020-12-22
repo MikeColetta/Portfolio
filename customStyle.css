@@ -1,5 +1,6 @@
 .navbar-brand {
     background-color: teal;
+    float: left;
 }
 
 .nav-item {
@@ -22,6 +23,11 @@ a {
 }
 
 .portfolio-img {
-    width: 200px;
-    margin: 10px 30px;
+    width: 300px;
+    margin: 5px 20px;
+}
+
+.card-header {
+    background-color: transparent;
+    border-bottom: 3px solid rgba(0,0,0,.125);
 }
