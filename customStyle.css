@@ -1,10 +1,19 @@
+body {
+    
+}
+
+
 .navbar-brand {
-    background-color: teal;
     float: left;
 }
 
 .nav-item {
     margin: 5px;
+}
+
+h1 {
+    color: teal;
+    font-family: 'Libre Baskerville', sans-serif;
 }
 
 a {
@@ -16,7 +25,9 @@ a {
 }
 
 .about-me-img {
-    margin-right: 5px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
     width: 16em; 
     height: 16em; 
     float: left
