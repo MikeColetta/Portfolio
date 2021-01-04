@@ -25,6 +25,10 @@ The final stages of the project included the finer details. This was a lot of wo
 
 ## Credits
 
-Bootstrap 4.5 (https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+Bootstrap 4.5 Layout (https://getbootstrap.com/docs/4.5/layout/overview/)
+
 Bootstrap 4.5 Navbar (https://getbootstrap.com/docs/4.5/components/navbar/)
+
 Bootstrap 4.5 Cards (https://getbootstrap.com/docs/4.5/components/card/)
+
+Brick Background (https://www.pexels.com/photo/wall-bricks-220182/)

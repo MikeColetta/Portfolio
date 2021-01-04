@@ -1,3 +1,7 @@
+body {
+    background-image: url("brick.jpg");
+}
+
 h1 {
     color: teal;
     font-family: 'Libre Baskerville', sans-serif;
