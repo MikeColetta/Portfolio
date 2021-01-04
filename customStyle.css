@@ -19,6 +19,7 @@ body {
 h1 {
     color: teal;
     font-family: 'Libre Baskerville', sans-serif;
+    font-weight: bold;
 }
 
 a {
@@ -37,8 +38,8 @@ a.navlink {
     margin-right: 20px;
     margin-top: 10px;
     margin-bottom: 5px;
-    width: 16em; 
-    height: 16em; 
+    width: 12em; 
+    height: 12em; 
     float: left
 }
 
@@ -58,4 +59,8 @@ a.navlink {
 
 .copyright {
     color: gray;
+}
+
+.card {
+    margin-top: 50px;
 }
