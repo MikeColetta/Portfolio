@@ -12,7 +12,7 @@ Next I worked on the responsiveness. After getting some help from my tutor on ho
 
 After I felt my responsivness was in a good place I decided to work on the more cosmetic details of my website. This included adding the google fonts. I chose Libre Baskerville since it seemed closest to the asset images provided. I also noticed at this point I was missing the copyright footer, so I added that too. 
 
-The final stages of the project included the finer details. This was a lot of work with font sizes and margins on each page and reformatting the contact button. I also spent this time looking for a subtle background image for my portfolio as well. 
+The final stages of the project included the finer details. This was a lot of work with font sizes and margins on each page and reformatting the contact button. I also spent this time looking for a subtle background image for my portfolio as well. I then wrote the bio.
 
 ## Project Link
 [Deployed Link]()
