@@ -68,12 +68,12 @@ a.navlink {
 
 .portfolio-img {
     width: 300px;
-    margin: 5px 20px;
+    margin: 5px 5px;
 }
 
-.img-column {
-    margin: 20px;
-}
+/* .img-column {
+    margin: 15px;
+} */
 
 /* Contact */
 
