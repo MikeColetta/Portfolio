@@ -82,6 +82,10 @@ a.navlink {
     margin-top: 20px;
 }
 
+.contact-box {
+    margin-bottom: 10px;
+}
+
 .btn-primary {
     background-color: teal;
     border-color: teal;
@@ -91,4 +95,38 @@ a.navlink {
 
 .copyright {
     color: gray;
+    margin: 0px
+}
+
+.footer-style {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 30px;
+    background-color: #343a40;
+    text-align: center;
+  }
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+  
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
 }

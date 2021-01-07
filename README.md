@@ -14,6 +14,8 @@ After I felt my responsivness was in a good place I decided to work on the more 
 
 The final stages of the project included the finer details. This was a lot of work with font sizes and margins on each page and reformatting the contact button. I also spent this time looking for a subtle background image for my portfolio as well. I then wrote the bio.
 
+After I submitted, I noticed I forgot to switch out the blank photos and add social media links. I added those post submission and pushed the changes. I also fixed the contact box margin on the bottom to fit the submit button better.
+
 ## Project Link
 [Deployed Link]()
 
@@ -32,3 +34,6 @@ Bootstrap 4.5 Navbar (https://getbootstrap.com/docs/4.5/components/navbar/)
 Bootstrap 4.5 Cards (https://getbootstrap.com/docs/4.5/components/card/)
 
 Brick Background (https://www.pexels.com/photo/wall-bricks-220182/)
+
+Bootstrap 4 Sticky Footer Not Sticking (https://stackoverflow.com/questions/46722697/bootstrap-4-sticky-footer-not-sticking)
+
