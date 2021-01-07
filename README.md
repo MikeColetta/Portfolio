@@ -37,3 +37,4 @@ Brick Background (https://www.pexels.com/photo/wall-bricks-220182/)
 
 Bootstrap 4 Sticky Footer Not Sticking (https://stackoverflow.com/questions/46722697/bootstrap-4-sticky-footer-not-sticking)
 
+HTML Validator (https://validator.w3.org/)
