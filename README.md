@@ -17,12 +17,13 @@ The final stages of the project included the finer details. This was a lot of wo
 After I submitted, I noticed I forgot to switch out the blank photos and add social media links. I added those post submission and pushed the changes. I also fixed the contact box margin on the bottom to fit the submit button better.
 
 ## Project Link
-[Deployed Link]()
+[Deployed Link](https://mikecoletta.github.io/Responsive-Portfolio/)
 
 ## Site Screenshot
 
-![Screenshot 1]()
-![Screenshot 2]()
+![Screenshot 1](Screenshot1.JPG)
+![Screenshot 1](Screenshot2.JPG)
+![Screenshot 1](Screenshot3.JPG)
 
 
 ## Credits
