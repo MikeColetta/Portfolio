@@ -83,23 +83,19 @@ a.navlink {
     margin: 5px 5px;
 }
 
-/* .img-column {
-    margin: 15px;
-} */
-
 /* Contact */
 
-.contact-name {
-    margin-top: 20px;
+.contactCard {
+    display: flex;
+    justify-content: space-evenly;
 }
 
-.contact-box {
-    margin-bottom: 10px;
-}
-
-.btn-primary {
-    background-color: teal;
-    border-color: teal;
+.iconCard {
+    justify-content: center;
+    text-align: center;
+    max-width: 125px;
+    max-height: 150px;
+    padding: 0px;
 }
 
 /* Footer */
@@ -139,5 +135,26 @@ a.navlink {
 
 .fa-instagram {
     background: #125688;
+    color: white;
+}
+
+.fa-linkedin {
+    background-color:teal;
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+.fa-github {
+    color: white;
+}
+
+.githubContactLink {
+    color:white;
+    background-color: teal;
+    width: 100px;
+    height: 100px;
+}
+
+.fa-link {
     color: white;
 }
