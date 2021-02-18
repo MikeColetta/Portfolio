@@ -99,6 +99,7 @@ a.navlink {
 .iconCard {
     justify-content: center;
     text-align: center;
+    background-color: teal;
     max-width: 125px;
     max-height: 150px;
     padding: 0px;
@@ -157,6 +158,13 @@ a.navlink {
 .githubContactLink {
     color:white;
     background-color: teal;
+    width: 100px;
+    height: 100px;
+}
+
+.fa-envelope-o {
+    background-color:teal;
+    color: white;
     width: 100px;
     height: 100px;
 }
