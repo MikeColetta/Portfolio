@@ -169,6 +169,13 @@ a.navlink {
     height: 100px;
 }
 
+.fa-phone {
+    background-color:teal;
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+
 .fa-link {
     color: white;
 }
