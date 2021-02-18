@@ -21,9 +21,9 @@ After I submitted, I noticed I forgot to switch out the blank photos and add soc
 
 ## Site Screenshot
 
-![Screenshot 1](Screenshot1.JPG)
-![Screenshot 1](Screenshot2.JPG)
-![Screenshot 1](Screenshot3.JPG)
+![Screenshot 1](Images/Screenshot1.JPG)
+![Screenshot 1](Images/Screenshot2.JPG)
+![Screenshot 1](Images/Screenshot3.JPG)
 
 
 ## Credits
