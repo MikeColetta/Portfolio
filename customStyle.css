@@ -23,11 +23,13 @@ a {
 .navbar-brand {
     float: left;
     background-color: teal;
-    padding: 10px;
+    padding: 1vw;
+    margin-right: 0px;
 }
 
 .navbar-name {
     color: white;
+    margin-bottom: 0px;
 }
 
 .nav-item {
