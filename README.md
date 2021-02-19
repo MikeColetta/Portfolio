@@ -6,10 +6,10 @@ My task was to create a responsive portfolio website for myself that included ab
 
 ## My Process
 
-### Update
-Update One: I chose to remove the multiple web pages and instead now have the site all in one HTML file. I use the navbar to jump from one section to another. I added all of my contact links as buttons at the bottom since that looked a lot nicer than just writing out the URLs.
+### Version 2
+I chose to remove the multiple web pages and instead now have the site all in one HTML file. I use the navbar to jump from one section to another. I added all of my contact links as buttons at the bottom since that looked a lot nicer than just writing out the URLs.
 
-### Original
+### Version 1
 
 My first priority was setting up the basic functionality of the website. I took the information I found on the Bootstrap website and adjusted the classes and code to fit my needs. This laid out the Navbar, and main content cards for each section.
 
