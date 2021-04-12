@@ -67,6 +67,20 @@ a.navlink {
     float: left
 }
 
+.techList {
+    text-align: center;
+}
+.techListItem {
+    display: inline;
+    list-style: none;
+}
+
+.techListItem:after { 
+    content: " \00b7"; 
+}
+.techListItem:last-child:after { 
+    content: none;
+}
 /* Portfolio */
 
 .portfolioCard {
