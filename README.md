@@ -5,6 +5,7 @@
 ## Project Description
 
 I created a responsive portfolio website for myself that included about me, portfolio, and contact pages. This will later be modified to hold my actual portolio upon leaving class.
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
