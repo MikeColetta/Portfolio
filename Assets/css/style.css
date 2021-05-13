@@ -30,7 +30,7 @@ a {
 
 .navbar-brand {
     float: left;
-    background-color: teal;
+    background-color: #156064;
     padding: 1vw;
     margin-right: 0px;
     border-radius: .25rem;
@@ -47,6 +47,10 @@ a {
 
 a.navlink {
     font-size: 20px;
+}
+
+.dropdownButton {
+    background-color: #156064;
 }
 
 /* General */
@@ -78,6 +82,7 @@ a.navlink {
 
 .techList {
     text-align: center;
+    padding: initial;
 }
 .techListItem {
     display: inline;
@@ -98,7 +103,7 @@ a.navlink {
 }
 
 .projectCard {
-    background-color: teal;
+    background-color: #156064;
     width: 25rem;
 }
 
@@ -126,7 +131,7 @@ a.navlink {
 .iconCard {
     justify-content: center;
     text-align: center;
-    background-color: teal;
+    background-color: #156064;
     max-width: 125px;
     max-height: 150px;
     padding: 0px;
@@ -173,7 +178,7 @@ a.navlink {
 }
 
 .fa-linkedin {
-    background-color:teal;
+    background-color:#156064;
     color: white;
     width: 100px;
     height: 100px;
@@ -184,20 +189,20 @@ a.navlink {
 
 .githubContactLink {
     color:white;
-    background-color: teal;
+    background-color: #156064;
     width: 100px;
     height: 100px;
 }
 
 .fa-envelope-o {
-    background-color:teal;
+    background-color:#156064;
     color: white;
     width: 100px;
     height: 100px;
 }
 
 .fa-phone {
-    background-color:teal;
+    background-color:#156064;
     color: white;
     width: 100px;
     height: 100px;
@@ -208,7 +213,7 @@ a.navlink {
 }
 
 .resumeLink {
-    color: teal;
+    color: #156064;
 }
 
 @media screen and (max-width: 430px) {
