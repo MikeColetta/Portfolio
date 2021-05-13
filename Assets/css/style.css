@@ -119,6 +119,10 @@ a.navlink {
     background-color: #FFFBFC;
 }
 
+.contactSubheading {
+    text-align: center;
+}
+
 .iconCard {
     justify-content: center;
     text-align: center;
